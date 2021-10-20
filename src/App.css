@@ -1,0 +1,78 @@
+.homeMenu{
+  background-color: rgb(77, 159, 165);
+  border-color:darkslategray;
+  text-align: justify;
+  padding: 2%;
+  
+}
+.homeMenu li{
+  padding: 2%;
+  align-items: baseline;
+  display: inline;
+  text-decoration: none;
+
+}
+.homeMenu ul li {
+  color:white;
+  text-decoration: none;
+  
+}
+.container{
+  background-color: darkgrey;
+  padding-left: 2%;
+}
+.Education{
+  background-color: dimgrey;
+  padding-left: 2%;
+}
+.Social{
+  background: gainsboro;
+  text-align: center;
+  padding-left: 2%;
+}
+.simon{
+  padding-left: 2%;
+  text-decoration: goldenrod;
+  background-color: cornflowerblue;
+}
+.home{
+  background-color: grey;
+  text-align: justify;
+  padding:2%;
+  font-size: medium;
+}
+form{
+  padding: 2%;
+  content: counter();
+  width: 150%;
+}
+
+form input, form button{
+  border:5px black solid;
+  padding: 1%;
+  text-transform: capitalize;
+  text-align: center;
+  
+
+}
+form button{
+  font-weight: bold;
+  color: rgb(30, 40, 49);
+  text-transform: capitalize;
+  
+}
+
+.output{
+  text-align: 50%;
+  border: black;
+
+}
+p{
+  background-color: rgb(94, 80, 80);
+  margin: 5px auto;
+  width:30%;
+  text-indent: 2%;
+  padding-left: 7%;
+}
+
+
